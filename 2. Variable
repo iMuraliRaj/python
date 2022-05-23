@@ -1,0 +1,7 @@
+name = "Murali"
+
+age = 27
+
+print(name)
+
+print(age)
