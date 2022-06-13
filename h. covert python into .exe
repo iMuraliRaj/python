@@ -4,3 +4,5 @@
 2. Go to location of the python file
    Run the below command in cmd
    command: pyinstaller PythonFile.py
+
+3. The converted executable file will be available in the dist folder
