@@ -1,2 +1,6 @@
 1. install pyinstaller
    pip install pyinstaller
+
+2. Go to location of the python file
+   Run the below command in cmd
+   command: pyinstaller PythonFile.py
