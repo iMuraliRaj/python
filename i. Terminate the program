@@ -1,0 +1,11 @@
+quit():
+
+The quit() is used to terminate the programe.
+
+Example:
+def temrinate():
+  print("Murali is waked up")
+  print("Murali has eaten")
+  print("Murali has sleep")
+  quit()
+  print("Murali is dreaming about the futre")
