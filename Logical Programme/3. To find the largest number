@@ -1,0 +1,8 @@
+numbers=[1,6,2,3,5]
+largest=numbers[0]
+for i in numbers:
+    for j in numbers:
+        if largest<j:
+            largest=j
+
+print(largest)
