@@ -1,0 +1,15 @@
+oldList=[1,1,2,2,3,3,4,4]
+
+dictList=dict.fromkeys(oldList)
+
+listList=list(dictList)
+
+print(listList)
+
+
+
+Steps:
+1. Declare the list with containing of duplicate values
+2. Create a dict variable by using oldList, It will create a dict by assuming the keys into dict. It will create a unique value only because, it is not accepting the duplicate value
+    By default, It's variable value is None
+3. Then, We can covert the dict list into normal list    
