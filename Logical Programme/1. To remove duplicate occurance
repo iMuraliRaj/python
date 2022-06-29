@@ -1,0 +1,9 @@
+oldNumber=[1,2,2]
+
+newNumber=[]
+
+for i in oldNumber:
+    if i not in newNumber:
+        newNumber.append(i)
+
+print(newNumber)
