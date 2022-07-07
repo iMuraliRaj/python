@@ -7,4 +7,5 @@
 3. backward():
     Moves the turtle backward by the specified amount
     
-    
+4. right():
+    Turns the turtle clockwise
