@@ -1,4 +1,9 @@
 1. Turtle():
     Creates and returns a new turtle object
+    
+2. forward():
+    Moves the turtle forward by the specified amount
+    
 
+    
     
