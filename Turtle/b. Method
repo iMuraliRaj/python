@@ -9,3 +9,7 @@
     
 4. right():
     Turns the turtle clockwise
+
+5. left():
+    Turns the turtle counter clockwise
+    
